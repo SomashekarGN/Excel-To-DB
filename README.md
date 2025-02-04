@@ -1,2 +1,2 @@
-# Excel-To-DB
-Project that collects data from Excel sheet and saves it to the DB
+# ExcelDB-Manager
+Java project for seamless Excel data read/write operations from a database using Apache POI.
